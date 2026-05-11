@@ -5231,7 +5231,7 @@ both reference ``__class__``.
 .. nonce: D9EE-o
 .. section: Core and Builtins
 
-JIT: Re-use trampolines on AArch64 when creating stencils. Patch by Diego
+JIT: Reuse trampolines on AArch64 when creating stencils. Patch by Diego
 Russo
 
 ..

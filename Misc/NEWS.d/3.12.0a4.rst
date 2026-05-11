@@ -871,7 +871,7 @@ Fix reStructuredText syntax errors in docstrings in the :mod:`enum` module.
 .. nonce: Jd47V6
 .. section: Library
 
-Optimize the :class:`~fractions.Fraction` arithmetics for small components.
+Optimize the :class:`~fractions.Fraction` arithmetic for small components.
 
 ..
 

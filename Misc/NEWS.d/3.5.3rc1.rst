@@ -685,7 +685,7 @@ os.fwalk() no longer fails on broken links.
 .. nonce: HDUTCu
 .. section: Library
 
-Fixed HList.header_exists() in tkinter.tix module by addin a workaround to
+Fixed HList.header_exists() in tkinter.tix module by adding a workaround to
 Tix library bug.
 
 ..

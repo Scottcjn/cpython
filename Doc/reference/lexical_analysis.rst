@@ -590,7 +590,7 @@ The set ``id_continue`` is defined as the union of:
 
 * ``id_start`` (see above)
 * Unicode category ``<Nd>`` - decimal numbers (includes ``0`` to ``9``)
-* Unicode category ``<Pc>`` - connector punctuations
+* Unicode category ``<Pc>`` - connector punctuation
 * Unicode category ``<Mn>`` - nonspacing marks
 * Unicode category ``<Mc>`` - spacing combining marks
 * ``<Other_ID_Continue>`` - another explicit set of characters in
