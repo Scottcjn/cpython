@@ -1990,7 +1990,7 @@ denial-of-service attacks.
 .. section: Library
 
 With :option:`-Werror <-W>`, the DeprecationWarning emitted by
-:py:func:`os.fork` and :py:func:`os.forkpty` in mutli-threaded processes is
+:py:func:`os.fork` and :py:func:`os.forkpty` in multi-threaded processes is
 now raised as an exception. Previously it was silently ignored. Patch by
 Rani Pinchuk.
 
@@ -5021,7 +5021,7 @@ free-threading build.
 .. nonce: m4Udh8
 .. section: Core and Builtins
 
-Add support for perf trampoline on macOS, to allow profilers wit JIT map
+Add support for perf trampoline on macOS, to allow profilers with JIT map
 support to read Python calls. While profiling, ``PYTHONPERFSUPPORT=1`` can
 be appended to enable the trampoline.
 
